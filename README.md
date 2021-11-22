@@ -13,7 +13,7 @@ This Challenge was to help Maria deep dive into the question of academic integri
       * The overall passing percentage for the entire district fell to 64.9%  
       * Thomas High School fell from the top 5 Schools
       
-    * When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured:
+    * When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured
         * The overall passing percentages of Thomas High School decreased by 0.11%
         * The average scores of Thomas High School for math and reading increased by 0.06
         * For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
